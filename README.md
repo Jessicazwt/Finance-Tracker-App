@@ -4,9 +4,6 @@
 Finance Tracker App is a mobile application UI/UX design created to help users record daily income and expenses. The design focuses on simplicity, readability, and helping users understand their financial condition clearly.
 
 ## Screenshot
-Add project screenshots here
-
-Example:
 <img width="6891" height="852" alt="finance png" src="https://github.com/user-attachments/assets/5f44e78c-6158-4389-99e0-4d4a3f68e01e" />
 
 ## Tech Stack
