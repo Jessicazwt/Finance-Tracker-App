@@ -9,7 +9,6 @@ Add project screenshots here
 Example:
 <img width="6891" height="852" alt="finance png" src="https://github.com/user-attachments/assets/5f44e78c-6158-4389-99e0-4d4a3f68e01e" />
 
-
 ## Tech Stack
 - Figma
 - UI Design
